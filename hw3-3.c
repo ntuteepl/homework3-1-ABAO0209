@@ -22,7 +22,7 @@ int main()
         printf("%d",b);
 
     }
-    else if(at=bt)
+    else if(at==bt)
     {
         if(a1<b1)
         {
