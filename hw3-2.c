@@ -11,7 +11,7 @@ int main()
     {
         for(int j=i+1;j<3;j++)
         {
-            if(L[i][1]>L[j][1])
+            if(A[i][1]>A[j][1])
             {
                 int B[2]={A[i][0],A[i][1]};
                 A[i][0]=A[j][0];
